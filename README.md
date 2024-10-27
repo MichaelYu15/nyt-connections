@@ -1,10 +1,10 @@
 # NYT Connections Clone
 
-Clone of the Connections game from the New York Times, written using Next.js.
+Clone of Simen Refsland's Connections game
 
 ## Installing locally
 
-For those interested in running the app locally, first clone the repository:
+For those interested in running the app locally, first clone the template repository:
 ```bash
 git clone https://github.com/srefsland/nyt-connections-clone.git
 ```
